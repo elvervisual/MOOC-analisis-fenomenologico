@@ -19,11 +19,11 @@ Un tema es una estructura de significado de la experiencia. Formularlo es «un a
 ### Tres modos de lectura
 Van Manen (2003, cap. 4, pp. 110–113) propone tres aproximaciones para aislar afirmaciones temáticas. Esta sección trabaja las dos primeras; la Sección 5, la tercera.
 
-| Lectura | Pregunta que guía | Producto |
-|---|---|---|
-| **Holística** (o sentenciosa) | ¿Qué frase expresa el significado fundamental del texto? | Una frase por texto o una por **incidente** |
-| **Selectiva** (o de marcaje) | ¿Qué frases parecen esenciales para revelar la experiencia? | Frases subrayadas tal como están, con nota de por qué |
-| **Detallada** (línea a línea) | ¿Qué se vive en cada frase? | Unidades de significado (Sección 5) |
+| Lectura                       | Pregunta que guía                                           | Producto                                              |
+| ----------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- |
+| **Holística** (o sentenciosa) | ¿Qué frase expresa el significado fundamental del texto?    | Una frase por texto o una por incidente               |
+| **Selectiva** (o de marcaje)  | ¿Qué frases parecen esenciales para revelar la experiencia? | Frases subrayadas tal como están, con nota de por qué |
+| **Detallada** (línea a línea) | ¿Qué se vive en cada frase?                                 | Unidades de significado (Sección 5)                    |
 
 Un **incidente** es un momento del relato con principio y cierre. Dividir en incidentes ayuda cuando el relato es largo.
 

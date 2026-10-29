@@ -35,7 +35,7 @@ Van Manen (2003, cap. 1, p. 48) organiza la investigación en seis actividades q
 5. Mantener una relación pedagógica firme y orientada con el fenómeno.
 6. Equilibrar el contexto considerando las partes y el todo.
 
-Este curso recorre esas actividades en ocho secciones.
+Este curso recorre esas actividades en ocho fases.
 
 ### Teoría de lo único
 Para Van Manen la fenomenología es «una filosofía o "teoría de lo único"; se interesa por lo que es en esencia irreemplazable» (2003, cap. 1, pp. 23–26). En educación esto importa: el análisis no busca leyes generales sino comprender esta situación, este estudiante, este grupo.
@@ -55,9 +55,8 @@ En tu documento de trabajo:
 ## Autoevaluación
 1. ¿Por qué la reflexión fenomenológica es retrospectiva y no introspectiva?
 2. ¿Qué cambia si un tema aparece una sola vez en la entrevista?
-3. ¿Por qué hay que avisar que Sundler et al. (2019) no es Van Manen?
 
 > [!question]- Respuestas orientativas
 > 1. Porque se vuelve sobre una experiencia ya vivida para comprender su significado, no se observa un estado interior en el momento.
 > 2. Nada en su importancia: el tema vale por el significado que muestra, no por su frecuencia.
-> 3. Porque viene de la fenomenología descriptiva y de la investigación en salud; sus criterios y fases no coinciden con el enfoque hermenéutico.
+>

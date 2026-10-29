@@ -45,7 +45,7 @@ Procedimiento:
 Fíjate en que cada presuposición queda **corregida por el texto**. Por eso se escribe antes: si no, la lectura confirmaría lo que ya creíamos.
 
 ## Actividad práctica
-1. Formula la pregunta fenomenológica de tu trabajo de grado (o usa la de Tomás).
+1. Formula la pregunta fenomenológica (usa la de Tomás).
 2. Escribe en dos líneas por qué te importa y qué deja fuera.
 3. Haz tu **memo de presuposiciones**: al menos cuatro creencias. Cuando tengas el material (Sección 3), completa la columna «pasaje» y «qué dice el texto».
 

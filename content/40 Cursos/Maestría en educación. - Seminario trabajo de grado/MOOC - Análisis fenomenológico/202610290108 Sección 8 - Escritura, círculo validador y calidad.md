@@ -14,11 +14,11 @@ title: "Sección 8. Escritura, círculo validador y calidad"
 
 ## Contenido
 ### Escribir es el método
-Para Van Manen la investigación es una forma de escritura: «no es hasta que lo hemos escrito cuando conocemos realmente lo que sabíamos» (2003, cap. 5, pp. 143–146). El resultado no es una lista de temas, sino una **descripción temática**: un texto que muestra la estructura de la experiencia.
+Para Van Manen la investigación es una forma de escritura: «no es hasta que lo hemos escrito cuando conocemos realmente lo que sabíamos» (2003, cap. 5, pp. 143–146). El resultado no es una lista de temas, sino una descripción temática: un texto que muestra la estructura de la experiencia.
 
-- La **anécdota** (relato breve y concreto de un momento vivido) es la herramienta central: muestra el tema (cap. 5, pp. 131–137).
-- Se escribe la descripción de un tema y se **reescribe** buscando lenguaje de vivencia y quitando explicaciones causales.
-- Cada versión se registra en una **bitácora de escritura** con fecha y qué cambió.
+- La anécdota (relato breve y concreto de un momento vivido) es la herramienta central: muestra el tema (cap. 5, pp. 131–137).
+- Se escribe la descripción de un tema y se reescribe buscando lenguaje de vivencia y quitando explicaciones causales.
+- Cada versión se registra en una bitácora de escritura con fecha y qué cambió.
 
 ### El círculo validador
 Una buena descripción «es validada por la experiencia vivida y valida a su vez a la experiencia vivida»: es algo ante lo que «podemos hacer un gesto de afirmación» (Van Manen, 2003, cap. 1, pp. 42–45). En la práctica, la descripción se devuelve al participante y se discute en un seminario de investigación (cap. 4, pp. 116 y 118). Es un diálogo, no la confirmación de una hipótesis. Se registran ajustes y desacuerdos.
@@ -69,6 +69,3 @@ El aporte del análisis se dirige al lector docente como pregunta, no como ley g
 > 1. Porque esas líneas están marcadas como dudosas en la transcripción y no se usan como evidencia hasta verificarlas.
 > 2. Se registra el desacuerdo, se revisa el tema y su variación imaginativa, y se reescribe. El reconocimiento es el criterio central.
 > 3. Porque la fenomenología no generaliza: comprende un caso y devuelve una pregunta que cada docente lleva a su situación (teoría de lo único).
-
-## Cierre del curso
-Con esta sección completas el proyecto final descrito en el [[202610290100 MOOC - El proceso del análisis fenomenológico#Proyecto final|índice del curso]]. Revisa que cada decisión (presuposiciones, frases, paráfrasis, temas, descartes, existenciales, versiones) quede escrita y enlazada.

@@ -18,7 +18,7 @@ Es la tercera aproximación de Van Manen (2003, cap. 4, pp. 110–113): se pregu
 
 ### La paráfrasis fenomenológica
 Cada unidad lleva una paráfrasis que:
-- se escribe en **tercera persona** y en **presente**;
+- se escribe en tercera persona y en presente;
 - se mantiene cerca de las palabras del participante;
 - no añade causas, juicios ni sensaciones que el participante no nombró.
 
@@ -37,9 +37,6 @@ Las unidades que muestran lo mismo se agrupan en **aspectos vividos**, nombrados
 | 81–83 | «por fin después de tanto tiempo volví a ver a uno de mis amigos… que ha sido como mi familia» | Después de mucho tiempo vuelve a ver a uno de sus mejores amigos, que es como su familia. | ASP-09 Reencuentro con el amigo-familia |
 
 El análisis completo de la entrevista tiene 18 unidades de significado y 11 aspectos vividos; la tabla muestra cinco como ejemplo.
-
-> [!warning] Error corregido en el ejemplo
-> Una versión anterior usaba paráfrasis como «el cuerpo se libera de la marca del encierro» o «hay lugares fuera del alcance de la norma». Tomás no dice eso. Además, la unidad «sin tapabocas» (L. 50–51) está marcada como dudosa en la transcripción y no puede usarse como evidencia hasta verificarla.
 
 ## Actividad práctica
 1. Toma un incidente de tu relato (o INC-4 de Tomás, L. 58–68) y divídelo en unidades de significado.

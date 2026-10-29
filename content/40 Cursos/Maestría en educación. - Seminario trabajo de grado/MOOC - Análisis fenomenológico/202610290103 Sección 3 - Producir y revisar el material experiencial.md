@@ -54,12 +54,10 @@ Declara la convención que usas (por ejemplo, Jefferson), numera las líneas y m
 
 **Dos reformulaciones de la entrevistadora:** «estas emociones ahorita tú las traes como algo ↑negativo?» (L. 58–59) y «es lo que a ti te produce felicidad, alegría.» (L. 97). En la primera Tomás corrige («con mis amigos exactamente no», L. 61); en la segunda asiente. Es un buen ejemplo de pregunta que sugiere la respuesta.
 
-**Material dudoso:** las líneas 50–51 («sin tapabocas») y 88–91 están marcadas como dudosas en la transcripción y quedan en suspenso.
-
 ## Actividad práctica
-1. Escribe un guion de entrevista con los tres bloques de Bevan: dos preguntas por bloque, todas dirigidas a momentos concretos.
-2. Si ya tienes un relato, haz el **memo de revisión** con la tabla de las seis sugerencias y anota qué preguntarías en una segunda conversación.
-3. Busca en tu transcripción una reformulación tuya y reescríbela como pregunta abierta.
+
+1. Si ya tienes un relato, haz el memo de revisión con la tabla de las seis sugerencias y anota qué preguntarías en una segunda conversación.
+2. Busca en la transcripción una reformulación tuya y reescríbela como pregunta abierta.
 
 ## Autoevaluación
 1. Tomás no describe sensaciones corporales. ¿Qué hace quien analiza?

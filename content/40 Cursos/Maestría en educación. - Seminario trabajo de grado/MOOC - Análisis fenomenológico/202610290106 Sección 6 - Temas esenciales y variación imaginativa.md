@@ -21,7 +21,7 @@ La pregunta es: «¿continúa siendo este fenómeno todavía el mismo si cambiam
 - Es un recurso heurístico, no una prueba.
 - Van Manen reconoce que esta distinción puede ser «el aspecto más difícil y controvertido de las ciencias humanas fenomenológicas» (pp. 124–126).
 - Sin la variación imaginativa, los temas son solo categorías de contenido.
-- Los temas incidentales **se conservan como descartados**, con la razón, para que se vea la decisión.
+- Los temas incidentales se conservan como descartados, con la razón, para que se vea la decisión.
 
 Bevan (2014) lleva la variación imaginativa a la propia entrevista («¿Habría sido igual si…?»). Así el participante también participa de la prueba.
 
