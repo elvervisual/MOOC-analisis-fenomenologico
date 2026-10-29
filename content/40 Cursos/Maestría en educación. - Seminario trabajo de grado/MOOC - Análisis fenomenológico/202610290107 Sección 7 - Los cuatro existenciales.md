@@ -1,16 +1,16 @@
 ---
-title: "Módulo 7. Los cuatro existenciales"
+title: "Sección 7. Los cuatro existenciales"
 ---
 
-← [[202610290106 Módulo 6 - Temas esenciales y variación imaginativa|Módulo 6]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290108 Módulo 8 - Escritura, círculo validador y calidad|Módulo 8]] →
+← [[202610290106 Sección 6 - Temas esenciales y variación imaginativa|Sección 6]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290108 Sección 8 - Escritura, círculo validador y calidad|Sección 8]] →
 
 ## Objetivos
 - Usar los cuatro existenciales como lentes para profundizar los temas.
 - Identificar el existencial dominante de cada tema.
 - Reconocer lo que el material no dice y convertirlo en pregunta.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m7.svg" alt="Esquema del Módulo 7: los cuatro existenciales como lentes y el existencial dominante de cada tema" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m7" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m7.svg" alt="Esquema de la Sección 7: los cuatro existenciales como lentes y el existencial dominante de cada tema" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m7" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m7.svg" alt="Esquema de la Sección 7: los cuatro existenciales como lentes y el existencial dominante de cada tema"></a></span>
 
 ## Contenido
 Van Manen (2003, cap. 4, pp. 119–124) presenta cuatro existenciales del mundo de la vida como «guías para reflexionar en el proceso de investigación»:
@@ -44,7 +44,7 @@ Aplicarlos como formulario vacía el análisis: son lentes, no casillas.
 | T2 | Espacio y relación | Lugares y horas sin policía, recorridos en plural |
 | T3 | Relación y tiempo | Los amigos; la media hora que alcanza |
 
-El cuerpo vivido no domina en ningún tema, no porque no importe, sino porque el material casi no lo nombra. Eso se convierte en una pregunta para la segunda conversación (Módulo 8).
+El cuerpo vivido no domina en ningún tema, no porque no importe, sino porque el material casi no lo nombra. Eso se convierte en una pregunta para la segunda conversación (Sección 8).
 
 ## Actividad práctica
 1. Relee cada uno de tus temas esenciales con las cuatro preguntas. Escribe la evidencia con número de línea.

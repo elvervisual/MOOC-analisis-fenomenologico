@@ -1,16 +1,16 @@
 ---
-title: "Módulo 5. Lectura detallada, unidades de significado y aspectos vividos"
+title: "Sección 5. Lectura detallada, unidades de significado y aspectos vividos"
 ---
 
-← [[202610290104 Módulo 4 - Lectura holística y lectura selectiva|Módulo 4]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290106 Módulo 6 - Temas esenciales y variación imaginativa|Módulo 6]] →
+← [[202610290104 Sección 4 - Lectura holística y lectura selectiva|Sección 4]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290106 Sección 6 - Temas esenciales y variación imaginativa|Sección 6]] →
 
 ## Objetivos
 - Dividir un texto en unidades de significado.
 - Escribir paráfrasis fenomenológicas fieles al participante.
 - Agrupar las unidades en aspectos vividos.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m5.svg" alt="Esquema del Módulo 5: del fragmento literal a la paráfrasis y al aspecto vivido" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m5" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m5.svg" alt="Esquema de la Sección 5: del fragmento literal a la paráfrasis y al aspecto vivido" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m5" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m5.svg" alt="Esquema de la Sección 5: del fragmento literal a la paráfrasis y al aspecto vivido"></a></span>
 
 ## Contenido
 ### La lectura detallada
@@ -22,7 +22,7 @@ Cada unidad lleva una paráfrasis que:
 - se mantiene cerca de las palabras del participante;
 - no añade causas, juicios ni sensaciones que el participante no nombró.
 
-Error frecuente: parafrasear con vocabulario técnico. Eso convierte la vivencia en concepto antes de tiempo. Las lecturas interpretativas son legítimas, pero pertenecen a los temas (Módulo 6) y a los existenciales (Módulo 7), no a la paráfrasis.
+Error frecuente: parafrasear con vocabulario técnico. Eso convierte la vivencia en concepto antes de tiempo. Las lecturas interpretativas son legítimas, pero pertenecen a los temas (Sección 6) y a los existenciales (Sección 7), no a la paráfrasis.
 
 ### De las unidades a los aspectos vividos
 Las unidades que muestran lo mismo se agrupan en **aspectos vividos**, nombrados con palabras cercanas a la experiencia. No se clasifica: se reduce cada aspecto a una expresión breve. Cada paráfrasis debe poder rastrearse hasta su unidad, y cada aspecto hasta sus líneas.

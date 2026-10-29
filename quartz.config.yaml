@@ -2,7 +2,7 @@
 configuration:
   pageTitle: "Análisis fenomenológico · MOOC · Maestría en Educación UPTC - Elver Chaparro Cardozo"
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics: null
   locale: es-ES

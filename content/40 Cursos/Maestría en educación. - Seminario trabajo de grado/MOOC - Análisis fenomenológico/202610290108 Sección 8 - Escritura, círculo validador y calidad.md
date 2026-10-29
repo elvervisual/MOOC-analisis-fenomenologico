@@ -1,16 +1,16 @@
 ---
-title: "Módulo 8. Escritura, círculo validador y calidad"
+title: "Sección 8. Escritura, círculo validador y calidad"
 ---
 
-← [[202610290107 Módulo 7 - Los cuatro existenciales|Módulo 7]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]]
+← [[202610290107 Sección 7 - Los cuatro existenciales|Sección 7]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]]
 
 ## Objetivos
 - Escribir una anécdota y una descripción temática a partir de los temas.
 - Llevar una bitácora de escritura y reescritura.
 - Preparar el círculo validador y evaluar el texto con los criterios de Van Manen.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m8.svg" alt="Esquema del Módulo 8: escritura y reescritura, círculo validador y criterios de calidad" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m8" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m8.svg" alt="Esquema de la Sección 8: escritura y reescritura, círculo validador y criterios de calidad" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m8" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m8.svg" alt="Esquema de la Sección 8: escritura y reescritura, círculo validador y criterios de calidad"></a></span>
 
 ## Contenido
 ### Escribir es el método
@@ -71,4 +71,4 @@ El aporte del análisis se dirige al lector docente como pregunta, no como ley g
 > 3. Porque la fenomenología no generaliza: comprende un caso y devuelve una pregunta que cada docente lleva a su situación (teoría de lo único).
 
 ## Cierre del curso
-Con este módulo completas el proyecto final descrito en el [[202610290100 MOOC - El proceso del análisis fenomenológico#Proyecto final|índice del curso]]. Revisa que cada decisión (presuposiciones, frases, paráfrasis, temas, descartes, existenciales, versiones) quede escrita y enlazada.
+Con esta sección completas el proyecto final descrito en el [[202610290100 MOOC - El proceso del análisis fenomenológico#Proyecto final|índice del curso]]. Revisa que cada decisión (presuposiciones, frases, paráfrasis, temas, descartes, existenciales, versiones) quede escrita y enlazada.

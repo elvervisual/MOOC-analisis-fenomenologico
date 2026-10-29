@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1060" width="1000" height="1060" role="img" aria-label="Módulo 3 · Producir y revisar el material experiencial">
-<title>Módulo 3 · Producir y revisar el material experiencial</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1060" width="1000" height="1060" role="img" aria-label="Sección 3 · Producir y revisar el material experiencial">
+<title>Sección 3 · Producir y revisar el material experiencial</title>
 <defs><marker id="m1F3A5F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F3A5F"/></marker><marker id="m1F7A78" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A78"/></marker><marker id="mA84A32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A84A32"/></marker><marker id="mB7791F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B7791F"/></marker></defs>
 <rect x="0" y="0" width="1000" height="1060" rx="14" fill="#FFFFFF"/>
-<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Módulo 3 · Producir y revisar el material experiencial</text>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 3 · Producir y revisar el material experiencial</text>
 <text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">El material no se recolecta: se produce en un encuentro, se transcribe con cuidado y se revisa antes de analizarlo</text>
 <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. Producir el material</text>
 <line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>

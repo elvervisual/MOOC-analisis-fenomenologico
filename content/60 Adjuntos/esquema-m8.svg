@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Módulo 8 · Escritura, círculo validador y calidad">
-<title>Módulo 8 · Escritura, círculo validador y calidad</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Sección 8 · Escritura, círculo validador y calidad">
+<title>Sección 8 · Escritura, círculo validador y calidad</title>
 <defs><marker id="m2E7D32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D32"/></marker><marker id="mA84A32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A84A32"/></marker><marker id="mB7791F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B7791F"/></marker></defs>
 <rect x="0" y="0" width="1000" height="1010" rx="14" fill="#FFFFFF"/>
-<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Módulo 8 · Escritura, círculo validador y calidad</text>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 8 · Escritura, círculo validador y calidad</text>
 <text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">Escribir es el método: se escribe, se reescribe y se devuelve al participante hasta que se reconoce en el texto</text>
 <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. De los temas a la descripción temática</text>
 <line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
 <rect x="40" y="148" width="180" height="96" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
 <text x="130.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Temas</text>
 <text x="130.0" y="207.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">esenciales</text>
-<text x="130.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">(Módulos 6 y 7)</text>
+<text x="130.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">(Secciones 6 y 7)</text>
 <polyline points="222,196 258,196" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
 <rect x="260" y="148" width="210" height="96" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
 <text x="365.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">Anécdota</text>

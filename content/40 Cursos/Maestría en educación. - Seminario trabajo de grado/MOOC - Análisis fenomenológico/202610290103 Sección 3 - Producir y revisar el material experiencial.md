@@ -1,16 +1,16 @@
 ---
-title: "Módulo 3. Producir y revisar el material experiencial"
+title: "Sección 3. Producir y revisar el material experiencial"
 ---
 
-← [[202610290102 Módulo 2 - Pregunta fenomenológica y presuposiciones|Módulo 2]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290104 Módulo 4 - Lectura holística y lectura selectiva|Módulo 4]] →
+← [[202610290102 Sección 2 - Pregunta fenomenológica y presuposiciones|Sección 2]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290104 Sección 4 - Lectura holística y lectura selectiva|Sección 4]] →
 
 ## Objetivos
 - Entender por qué el material se **produce** y no se recolecta.
 - Diseñar un guion de entrevista conversacional o una consigna de protocolo escrito.
 - Revisar un relato con las seis sugerencias de Van Manen antes de analizarlo.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m3.svg" alt="Esquema del Módulo 3: producir, transcribir y revisar el material con las seis sugerencias" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m3" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m3.svg" alt="Esquema de la Sección 3: producir, transcribir y revisar el material con las seis sugerencias" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m3" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m3.svg" alt="Esquema de la Sección 3: producir, transcribir y revisar el material con las seis sugerencias"></a></span>
 
 ## Contenido
 ### Producir, no recolectar

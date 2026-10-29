@@ -1,29 +1,29 @@
 ---
-title: "Módulo 4. Lectura holística y lectura selectiva"
+title: "Sección 4. Lectura holística y lectura selectiva"
 ---
 
-← [[202610290103 Módulo 3 - Producir y revisar el material experiencial|Módulo 3]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290105 Módulo 5 - Lectura detallada, unidades de significado y aspectos vividos|Módulo 5]] →
+← [[202610290103 Sección 3 - Producir y revisar el material experiencial|Sección 3]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290105 Sección 5 - Lectura detallada, unidades de significado y aspectos vividos|Sección 5]] →
 
 ## Objetivos
 - Entender qué es un tema fenomenológico.
 - Hacer una lectura holística del texto y dividirlo en incidentes.
 - Hacer una lectura selectiva y justificar cada frase elegida.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m4.svg" alt="Esquema del Módulo 4: lecturas holística, selectiva y detallada sobre los incidentes de la entrevista" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m4" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m4.svg" alt="Esquema de la Sección 4: lecturas holística, selectiva y detallada sobre los incidentes de la entrevista" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m4" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m4.svg" alt="Esquema de la Sección 4: lecturas holística, selectiva y detallada sobre los incidentes de la entrevista"></a></span>
 
 ## Contenido
 ### Qué es un tema
 Un tema es una estructura de significado de la experiencia. Formularlo es «un acto libre de "ver"» un significado, no un conteo de frecuencias (Van Manen, 2003, cap. 4, pp. 96–98), y «el tema es siempre una reducción de una noción» (pp. 105–107). No es una categoría para clasificar fragmentos.
 
 ### Tres modos de lectura
-Van Manen (2003, cap. 4, pp. 110–113) propone tres aproximaciones para aislar afirmaciones temáticas. Este módulo trabaja las dos primeras; el Módulo 5, la tercera.
+Van Manen (2003, cap. 4, pp. 110–113) propone tres aproximaciones para aislar afirmaciones temáticas. Esta sección trabaja las dos primeras; la Sección 5, la tercera.
 
 | Lectura | Pregunta que guía | Producto |
 |---|---|---|
 | **Holística** (o sentenciosa) | ¿Qué frase expresa el significado fundamental del texto? | Una frase por texto o una por **incidente** |
 | **Selectiva** (o de marcaje) | ¿Qué frases parecen esenciales para revelar la experiencia? | Frases subrayadas tal como están, con nota de por qué |
-| **Detallada** (línea a línea) | ¿Qué se vive en cada frase? | Unidades de significado (Módulo 5) |
+| **Detallada** (línea a línea) | ¿Qué se vive en cada frase? | Unidades de significado (Sección 5) |
 
 Un **incidente** es un momento del relato con principio y cierre. Dividir en incidentes ayuda cuando el relato es largo.
 

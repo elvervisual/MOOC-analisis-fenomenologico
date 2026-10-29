@@ -1,16 +1,16 @@
 ---
-title: "Módulo 2. Pregunta fenomenológica y presuposiciones"
+title: "Sección 2. Pregunta fenomenológica y presuposiciones"
 ---
 
-← [[202610290101 Módulo 1 - Qué busca el análisis fenomenológico|Módulo 1]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290103 Módulo 3 - Producir y revisar el material experiencial|Módulo 3]] →
+← [[202610290101 Sección 1 - Qué busca el análisis fenomenológico|Sección 1]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290103 Sección 3 - Producir y revisar el material experiencial|Sección 3]] →
 
 ## Objetivos
 - Formular una pregunta fenomenológica bien construida y declarar lo que deja fuera.
 - Explicitar por escrito las presuposiciones y ligarlas al texto.
 - Entender la époché como actitud, no como borrado.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m2.svg" alt="Esquema del Módulo 2: reformular la pregunta, procedimiento de époché y cómo el texto corrige las presuposiciones" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m2" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m2.svg" alt="Esquema de la Sección 2: reformular la pregunta, procedimiento de époché y cómo el texto corrige las presuposiciones" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m2" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m2.svg" alt="Esquema de la Sección 2: reformular la pregunta, procedimiento de époché y cómo el texto corrige las presuposiciones"></a></span>
 
 ## Contenido
 ### La pregunta
@@ -47,7 +47,7 @@ Fíjate en que cada presuposición queda **corregida por el texto**. Por eso se 
 ## Actividad práctica
 1. Formula la pregunta fenomenológica de tu trabajo de grado (o usa la de Tomás).
 2. Escribe en dos líneas por qué te importa y qué deja fuera.
-3. Haz tu **memo de presuposiciones**: al menos cuatro creencias. Cuando tengas el material (Módulo 3), completa la columna «pasaje» y «qué dice el texto».
+3. Haz tu **memo de presuposiciones**: al menos cuatro creencias. Cuando tengas el material (Sección 3), completa la columna «pasaje» y «qué dice el texto».
 
 ## Autoevaluación
 1. Reescribe en forma fenomenológica: «¿Por qué los estudiantes de primer semestre abandonan el posgrado?».

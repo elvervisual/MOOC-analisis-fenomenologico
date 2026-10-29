@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Módulo 1 · Qué busca el análisis fenomenológico">
-<title>Módulo 1 · Qué busca el análisis fenomenológico</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Sección 1 · Qué busca el análisis fenomenológico">
+<title>Sección 1 · Qué busca el análisis fenomenológico</title>
 <defs><marker id="m1F7A78" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A78"/></marker><marker id="m2E7D32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D32"/></marker><marker id="m56626B" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#56626B"/></marker><marker id="m6B4C8A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B4C8A"/></marker><marker id="m8E9AA0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8E9AA0"/></marker></defs>
 <rect x="0" y="0" width="1000" height="1010" rx="14" fill="#FFFFFF"/>
-<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Módulo 1 · Qué busca el análisis fenomenológico</text>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 1 · Qué busca el análisis fenomenológico</text>
 <text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">La pregunta decide el enfoque; Van Manen organiza el trabajo en seis actividades que se alternan</text>
 <text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. La pregunta decide qué se analiza</text>
 <line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
@@ -65,22 +65,22 @@
 <path d="M300.46774696806534,749.76 Q325.40927859705715,730.88 387.7631076695368,733.24" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
 <rect x="380.0" y="682.0" width="240" height="60" rx="10" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
 <text x="500.0" y="708.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6B4C8A" text-anchor="middle">1. Dirigirse al fenómeno</text>
-<text x="500.0" y="728.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulo 2</text>
+<text x="500.0" y="728.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 2</text>
 <rect x="691.7691453623979" y="741.0" width="240" height="60" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
 <text x="811.7691453623979" y="767.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#1F7A78" text-anchor="middle">2. Investigar lo vivido</text>
-<text x="811.7691453623979" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulo 3</text>
+<text x="811.7691453623979" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 3</text>
 <rect x="691.7691453623979" y="859.0" width="240" height="60" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
 <text x="811.7691453623979" y="885.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#1F3A5F" text-anchor="middle">3. Reflexionar temas</text>
-<text x="811.7691453623979" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulos 4 a 7</text>
+<text x="811.7691453623979" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Secciones 4 a 7</text>
 <rect x="380.0" y="918.0" width="240" height="60" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
 <text x="500.0" y="944.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#2E7D32" text-anchor="middle">4. Escribir y reescribir</text>
-<text x="500.0" y="964.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulo 8</text>
+<text x="500.0" y="964.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 8</text>
 <rect x="68.23085463760208" y="859.0" width="240" height="60" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
 <text x="188.23085463760208" y="885.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">5. Relación orientada</text>
-<text x="188.23085463760208" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulo 8</text>
+<text x="188.23085463760208" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 8</text>
 <rect x="68.23085463760208" y="741.0" width="240" height="60" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
 <text x="188.23085463760208" y="767.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">6. Partes y todo</text>
-<text x="188.23085463760208" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Módulos 4 y 8</text>
+<text x="188.23085463760208" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Secciones 4 y 8</text>
 <text x="500" y="824" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle">Se recorren en este curso,</text>
 <text x="500" y="846" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle">pero se vuelve sobre ellas</text>
 </svg>

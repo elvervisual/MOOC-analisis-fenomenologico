@@ -1,8 +1,8 @@
 ---
-title: "Módulo 6. Temas esenciales y variación imaginativa"
+title: "Sección 6. Temas esenciales y variación imaginativa"
 ---
 
-← [[202610290105 Módulo 5 - Lectura detallada, unidades de significado y aspectos vividos|Módulo 5]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290107 Módulo 7 - Los cuatro existenciales|Módulo 7]] →
+← [[202610290105 Sección 5 - Lectura detallada, unidades de significado y aspectos vividos|Sección 5]] · [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice]] · [[202610290107 Sección 7 - Los cuatro existenciales|Sección 7]] →
 
 ## Objetivos
 - Agrupar aspectos vividos en temas candidatos.
@@ -26,7 +26,7 @@ La pregunta es: «¿continúa siendo este fenómeno todavía el mismo si cambiam
 Bevan (2014) lleva la variación imaginativa a la propia entrevista («¿Habría sido igual si…?»). Así el participante también participa de la prueba.
 
 ## Ejemplo: la entrevista a Tomás
-<img src="/60-adjuntos/202610281843-esquema-de-temas-de-la-entrevista.svg" alt="Esquema de temas de la entrevista" style="width:100%">
+<a class="zoom-abrir" href="#zoom-202610281843-esquema-de-temas-de-la-entrevista" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/202610281843-esquema-de-temas-de-la-entrevista.svg" alt="Esquema de temas de la entrevista" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-202610281843-esquema-de-temas-de-la-entrevista" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/202610281843-esquema-de-temas-de-la-entrevista.svg" alt="Esquema de temas de la entrevista"></a></span>
 
 | Tema | Aspectos | Variación | Decisión |
 |---|---|---|---|
@@ -44,7 +44,7 @@ Bevan (2014) lleva la variación imaginativa a la propia entrevista («¿Habría
 **Tensión entre temas:** el mismo periodo se recuerda como feo (T1) y como agradable (T3). Tomás la resuelve él mismo: lo negativo es el encierro; los amigos no (L. 61).
 
 ## Actividad práctica
-1. Agrupa tus aspectos vividos (Módulo 5) en dos a cuatro temas candidatos, cada uno enunciado como frase.
+1. Agrupa tus aspectos vividos (Sección 5) en dos a cuatro temas candidatos, cada uno enunciado como frase.
 2. Aplica la variación imaginativa a cada uno y escribe la respuesta completa, no solo «sí» o «no».
 3. Haz la tabla de temas descartados con al menos dos temas incidentales.
 4. Anota una tensión entre temas, si la hay, y cómo aparece en el texto.

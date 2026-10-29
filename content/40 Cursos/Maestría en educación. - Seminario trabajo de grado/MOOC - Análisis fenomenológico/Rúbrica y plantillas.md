@@ -4,13 +4,13 @@ title: "Rúbrica y plantillas del proyecto final"
 
 ← [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice del curso]]
 
-Esta página reúne las plantillas de cada actividad y la rúbrica con la que se valora el proyecto final. Copia las tablas en tu documento de trabajo (Word, Google Docs u Obsidian) y complétalas a medida que avanzas en los módulos.
+Esta página reúne las plantillas de cada actividad y la rúbrica con la que se valora el proyecto final. Copia las tablas en tu documento de trabajo (Word, Google Docs u Obsidian) y complétalas a medida que avanzas en las secciones.
 
-<img src="/60-adjuntos/esquema-proyecto-final.svg" alt="Esquema: productos de cada módulo que forman el proyecto final y los cuatro criterios con que se valora" style="width:100%">
+<a class="zoom-abrir" href="#zoom-esquema-proyecto-final" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-proyecto-final.svg" alt="Esquema: productos de cada sección que forman el proyecto final y los cuatro criterios con que se valora" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-proyecto-final" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-proyecto-final.svg" alt="Esquema: productos de cada sección que forman el proyecto final y los cuatro criterios con que se valora"></a></span>
 
 ## Rúbrica del proyecto final
 
-Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se presentan en el [[202610290108 Módulo 8 - Escritura, círculo validador y calidad|Módulo 8]].
+Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se presentan en el [[202610290108 Sección 8 - Escritura, círculo validador y calidad|Sección 8]].
 
 | Criterio | Logrado | En desarrollo | Inicial |
 |---|---|---|---|
@@ -20,7 +20,7 @@ Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se p
 | **Profundo** | La descripción conserva tensiones y ambigüedades del relato y reconoce sus límites en un memo. | Se mencionan tensiones, pero se resuelven sin apoyo del texto. | La descripción cierra el sentido en una sola explicación o conclusión general. |
 
 ### Lista de productos
-| # | Producto | Módulo | ¿Entregado? |
+| # | Producto | Sección | ¿Entregado? |
 |---|---|---|---|
 | 1 | Pregunta fenomenológica y memo de presuposiciones | 2 | |
 | 2 | Memo de revisión del material | 3 | |
@@ -32,7 +32,7 @@ Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se p
 
 ## Plantillas
 
-### Módulo 2 · Pregunta y presuposiciones
+### Sección 2 · Pregunta y presuposiciones
 **Pregunta fenomenológica:**
 **Por qué me importa (dos líneas):**
 **Lo que la pregunta deja fuera:**
@@ -41,7 +41,7 @@ Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se p
 |---|---|---|---|
 | | | | |
 
-### Módulo 3 · Revisión del material
+### Sección 3 · Revisión del material
 | Sugerencia de Van Manen | ¿Se cumple? (sí / en parte / no) | Evidencia (líneas) | Qué preguntar en una segunda conversación |
 |---|---|---|---|
 | Sin causas ni generalizaciones | | | |
@@ -53,7 +53,7 @@ Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se p
 
 **Fragmentos dudosos de la transcripción (no usar como evidencia):**
 
-### Módulo 4 · Lectura holística y selectiva
+### Sección 4 · Lectura holística y selectiva
 **Frase de sentido de todo el texto:**
 
 | Incidente | Líneas | Frase holística |
@@ -64,14 +64,14 @@ Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se p
 |---|---|---|
 | | | |
 
-### Módulo 5 · Unidades de significado y aspectos vividos
+### Sección 5 · Unidades de significado y aspectos vividos
 | Líneas | Fragmento literal | Paráfrasis (3.ª persona, presente) | Aspecto vivido |
 |---|---|---|---|
 | | | | ASP-01 |
 
 Control de cada paráfrasis: ¿tercera persona y presente? ¿hay alguna causa o juicio? ¿hay algo que el participante no dijo?
 
-### Módulo 6 · Temas esenciales e incidentales
+### Sección 6 · Temas esenciales e incidentales
 | Tema (enunciado como frase) | Aspectos | Variación imaginativa (respuesta completa) | Decisión |
 |---|---|---|---|
 | T1 | | | Esencial / Esencial provisional |
@@ -82,14 +82,14 @@ Control de cada paráfrasis: ¿tercera persona y presente? ¿hay alguna causa o 
 
 **Tensiones entre temas:**
 
-### Módulo 7 · Existenciales
+### Sección 7 · Existenciales
 | Tema | Espacio vivido | Cuerpo vivido | Tiempo vivido | Relación vivida | Existencial dominante y por qué |
 |---|---|---|---|---|---|
 | T1 | | | | | |
 
 **Pregunta al participante sobre el existencial menos presente:**
 
-### Módulo 8 · Escritura y validación
+### Sección 8 · Escritura y validación
 **Anécdota (solo con lo que el participante dice):**
 
 **Descripción temática v1:**

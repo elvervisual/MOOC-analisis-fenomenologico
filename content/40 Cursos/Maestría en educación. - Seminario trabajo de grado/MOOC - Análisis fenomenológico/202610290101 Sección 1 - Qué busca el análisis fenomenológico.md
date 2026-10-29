@@ -1,16 +1,16 @@
 ---
-title: "Módulo 1. Qué busca el análisis fenomenológico"
+title: "Sección 1. Qué busca el análisis fenomenológico"
 ---
 
-← [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice del curso]] · Siguiente: [[202610290102 Módulo 2 - Pregunta fenomenológica y presuposiciones|Módulo 2]] →
+← [[202610290100 MOOC - El proceso del análisis fenomenológico|Índice del curso]] · Siguiente: [[202610290102 Sección 2 - Pregunta fenomenológica y presuposiciones|Sección 2]] →
 
 ## Objetivos
 - Explicar qué es la experiencia vivida y por qué es el objeto del análisis.
 - Distinguir el análisis fenomenológico de la codificación, la teoría fundamentada y la etnografía.
 - Reconocer las seis actividades de Van Manen como movimientos, no como etapas.
 
-## Esquema del módulo
-<img src="/60-adjuntos/esquema-m1.svg" alt="Esquema del Módulo 1: la pregunta decide el enfoque, la reflexión es retrospectiva y las seis actividades se alternan" style="width:100%">
+## Esquema de la sección
+<a class="zoom-abrir" href="#zoom-esquema-m1" data-no-popover="true" title="Ampliar"><img src="/60-adjuntos/esquema-m1.svg" alt="Esquema de la Sección 1: la pregunta decide el enfoque, la reflexión es retrospectiva y las seis actividades se alternan" style="width:100%"></a><span class="zoom-pista">Pulsa el esquema para ampliarlo</span><span id="zoom-esquema-m1" class="zoom-capa"><a class="zoom-cerrar" href="#_" data-no-popover="true">✕ Cerrar</a><a class="zoom-fondo" href="#_" data-no-popover="true"><img src="/60-adjuntos/esquema-m1.svg" alt="Esquema de la Sección 1: la pregunta decide el enfoque, la reflexión es retrospectiva y las seis actividades se alternan"></a></span>
 
 ## Contenido
 ### La experiencia vivida
@@ -35,7 +35,7 @@ Van Manen (2003, cap. 1, p. 48) organiza la investigación en seis actividades q
 5. Mantener una relación pedagógica firme y orientada con el fenómeno.
 6. Equilibrar el contexto considerando las partes y el todo.
 
-Este curso recorre esas actividades en ocho módulos.
+Este curso recorre esas actividades en ocho secciones.
 
 ### Teoría de lo único
 Para Van Manen la fenomenología es «una filosofía o "teoría de lo único"; se interesa por lo que es en esencia irreemplazable» (2003, cap. 1, pp. 23–26). En educación esto importa: el análisis no busca leyes generales sino comprender esta situación, este estudiante, este grupo.
