@@ -26,7 +26,7 @@ La pregunta es: «¿continúa siendo este fenómeno todavía el mismo si cambiam
 Bevan (2014) lleva la variación imaginativa a la propia entrevista («¿Habría sido igual si…?»). Así el participante también participa de la prueba.
 
 ## Ejemplo: la entrevista a Tomás
-![[202610281843 Esquema de temas de la entrevista.svg]]
+<img src="/60-adjuntos/202610281843-esquema-de-temas-de-la-entrevista.svg" alt="Esquema de temas de la entrevista" style="width:100%">
 
 | Tema | Aspectos | Variación | Decisión |
 |---|---|---|---|

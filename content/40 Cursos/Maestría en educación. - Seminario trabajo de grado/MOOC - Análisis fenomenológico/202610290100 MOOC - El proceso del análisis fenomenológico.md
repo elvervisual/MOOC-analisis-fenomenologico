@@ -29,11 +29,11 @@ Maestrantes del seminario de trabajo de grado que van a analizar entrevistas, pr
 
 Dedicación total estimada: 23 horas, en el rango de las 24 horas de trabajo independiente de una clase del seminario.
 
-![[202610281843 Flujo del análisis fenomenológico.svg|700]]
+<img src="/60-adjuntos/202610281843-flujo-del-análisis-fenomenológico.svg" alt="Flujo del análisis fenomenológico" style="width:100%">
 
 ## Cómo usar el curso
 - Sigue los módulos en orden la primera vez. Después, vuelve a ellos como consulta: Van Manen insiste en que las actividades no son pasos rígidos, sino movimientos que se alternan (Van Manen, 2003, cap. 1, p. 48).
-- Trabaja con **tu propio material** desde el Módulo 2. Si aún no lo tienes, usa la entrevista a Tomás del ejemplo aplicado.
+- Trabaja con **tu propio material** desde el Módulo 2. Si aún no lo tienes, usa la entrevista a Tomás que sirve de ejemplo en todo el curso.
 - Guarda cada actividad en un documento de trabajo con fecha (por ejemplo, «Actividad M2 - mis presuposiciones»). Al terminar tendrás la bitácora completa de tu análisis.
 - Las plantillas de cada actividad y la rúbrica del proyecto final están en [[Rúbrica y plantillas|Rúbrica y plantillas]].
 - En las autoevaluaciones, las respuestas están ocultas en el recuadro «Respuestas orientativas». Escribe tu respuesta antes de abrirlo.

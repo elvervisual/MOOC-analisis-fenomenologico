@@ -2,7 +2,7 @@
 <defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#56626B"/></marker><marker id="ard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8A3B5C"/></marker></defs>
 <rect width="1760" height="1660" fill="#FFFFFF"/>
 <text x="880.0" y="52.0" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#1C2329" text-anchor="middle" >Ciclo del análisis aplicado a la entrevista de Tomás</text>
-<text x="880.0" y="86.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" fill="#56626B" text-anchor="middle" >Encierro por la pandemia (2020) · estado de cada paso del modelo en la nota 202610281843</text>
+<text x="880.0" y="86.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" fill="#56626B" text-anchor="middle" >Encierro por la pandemia (2020) · estado de cada paso del análisis</text>
 <path d="M931.2,398.3 A395,395 0 0 1 1031.5,425.2" fill="none" stroke="#56626B" stroke-width="3" marker-end="url(#ar)"/>
 <path d="M1120.2,476.4 A395,395 0 0 1 1193.6,549.8" fill="none" stroke="#56626B" stroke-width="3" marker-end="url(#ar)"/>
 <path d="M1244.8,638.5 A395,395 0 0 1 1271.7,738.8" fill="none" stroke="#56626B" stroke-width="3" marker-end="url(#ar)"/>
@@ -147,5 +147,5 @@
 <rect x="1160" y="1515.0" width="22" height="18" rx="3" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
 <text x="1192.0" y="1529.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="start" >Act. 5 y 6 · Relación orientada y partes-todo (caps. 6 y 7)</text>
 <text x="80.0" y="1575.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="start" >Etiquetas: hecho = paso completo en la nota; provisional = hecho pero sujeto a validación; pendiente = sin hacer (borde punteado).</text>
-<text x="80.0" y="1596.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="start" >Ejemplo didáctico de un solo participante; no permite conclusiones sobre el fenómeno. Detalle y citas en la nota 202610281843.</text>
+<text x="80.0" y="1596.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="start" >Ejemplo didáctico de un solo participante; no permite conclusiones sobre el fenómeno.</text>
 </svg>
