@@ -9,6 +9,9 @@ title: "Módulo 7. Los cuatro existenciales"
 - Identificar el existencial dominante de cada tema.
 - Reconocer lo que el material no dice y convertirlo en pregunta.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m7.svg" alt="Esquema del Módulo 7: los cuatro existenciales como lentes y el existencial dominante de cada tema" style="width:100%">
+
 ## Contenido
 Van Manen (2003, cap. 4, pp. 119–124) presenta cuatro existenciales del mundo de la vida como «guías para reflexionar en el proceso de investigación»:
 

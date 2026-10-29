@@ -9,6 +9,9 @@ title: "Módulo 2. Pregunta fenomenológica y presuposiciones"
 - Explicitar por escrito las presuposiciones y ligarlas al texto.
 - Entender la époché como actitud, no como borrado.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m2.svg" alt="Esquema del Módulo 2: reformular la pregunta, procedimiento de époché y cómo el texto corrige las presuposiciones" style="width:100%">
+
 ## Contenido
 ### La pregunta
 Una pregunta fenomenológica bien formulada:

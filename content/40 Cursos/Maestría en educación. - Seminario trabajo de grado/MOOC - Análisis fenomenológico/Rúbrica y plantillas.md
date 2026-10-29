@@ -6,6 +6,8 @@ title: "Rúbrica y plantillas del proyecto final"
 
 Esta página reúne las plantillas de cada actividad y la rúbrica con la que se valora el proyecto final. Copia las tablas en tu documento de trabajo (Word, Google Docs u Obsidian) y complétalas a medida que avanzas en los módulos.
 
+<img src="/60-adjuntos/esquema-proyecto-final.svg" alt="Esquema: productos de cada módulo que forman el proyecto final y los cuatro criterios con que se valora" style="width:100%">
+
 ## Rúbrica del proyecto final
 
 Los cuatro criterios son los de Van Manen (2003, cap. 6, pp. 165–169) que se presentan en el [[202610290108 Módulo 8 - Escritura, círculo validador y calidad|Módulo 8]].

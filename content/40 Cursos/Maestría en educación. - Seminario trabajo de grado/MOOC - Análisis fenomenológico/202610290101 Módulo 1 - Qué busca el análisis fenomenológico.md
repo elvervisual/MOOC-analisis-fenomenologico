@@ -9,6 +9,9 @@ title: "Módulo 1. Qué busca el análisis fenomenológico"
 - Distinguir el análisis fenomenológico de la codificación, la teoría fundamentada y la etnografía.
 - Reconocer las seis actividades de Van Manen como movimientos, no como etapas.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m1.svg" alt="Esquema del Módulo 1: la pregunta decide el enfoque, la reflexión es retrospectiva y las seis actividades se alternan" style="width:100%">
+
 ## Contenido
 ### La experiencia vivida
 El análisis fenomenológico estudia el mundo de la vida tal como se vive de modo inmediato y **prerreflexivo**, antes de que lo conceptualicemos. La reflexión sobre esa experiencia es **retrospectiva**, no introspectiva: se vuelve sobre algo ya vivido. La pregunta típica es «¿cómo es vivir esta experiencia?», no «¿por qué ocurre?» ni «¿cuántas veces?» (ver Qué es fenomenología, según Van Manen).

@@ -9,6 +9,9 @@ title: "Módulo 5. Lectura detallada, unidades de significado y aspectos vividos
 - Escribir paráfrasis fenomenológicas fieles al participante.
 - Agrupar las unidades en aspectos vividos.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m5.svg" alt="Esquema del Módulo 5: del fragmento literal a la paráfrasis y al aspecto vivido" style="width:100%">
+
 ## Contenido
 ### La lectura detallada
 Es la tercera aproximación de Van Manen (2003, cap. 4, pp. 110–113): se pregunta, frase por frase o grupo de frases, qué revela sobre la experiencia. Su producto son **unidades de significado**: fragmentos que expresan un solo significado.

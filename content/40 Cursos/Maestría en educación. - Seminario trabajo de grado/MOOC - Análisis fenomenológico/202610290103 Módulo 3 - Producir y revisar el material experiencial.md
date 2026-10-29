@@ -9,6 +9,9 @@ title: "Módulo 3. Producir y revisar el material experiencial"
 - Diseñar un guion de entrevista conversacional o una consigna de protocolo escrito.
 - Revisar un relato con las seis sugerencias de Van Manen antes de analizarlo.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m3.svg" alt="Esquema del Módulo 3: producir, transcribir y revisar el material con las seis sugerencias" style="width:100%">
+
 ## Contenido
 ### Producir, no recolectar
 Los datos no están ahí esperando: emergen de un encuentro intencional y dependen de la pregunta y de la escucha. Por eso se habla de **material experiencial**.

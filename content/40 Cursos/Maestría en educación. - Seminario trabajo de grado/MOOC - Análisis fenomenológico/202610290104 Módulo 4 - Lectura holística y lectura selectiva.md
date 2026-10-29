@@ -9,6 +9,9 @@ title: "Módulo 4. Lectura holística y lectura selectiva"
 - Hacer una lectura holística del texto y dividirlo en incidentes.
 - Hacer una lectura selectiva y justificar cada frase elegida.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m4.svg" alt="Esquema del Módulo 4: lecturas holística, selectiva y detallada sobre los incidentes de la entrevista" style="width:100%">
+
 ## Contenido
 ### Qué es un tema
 Un tema es una estructura de significado de la experiencia. Formularlo es «un acto libre de "ver"» un significado, no un conteo de frecuencias (Van Manen, 2003, cap. 4, pp. 96–98), y «el tema es siempre una reducción de una noción» (pp. 105–107). No es una categoría para clasificar fragmentos.

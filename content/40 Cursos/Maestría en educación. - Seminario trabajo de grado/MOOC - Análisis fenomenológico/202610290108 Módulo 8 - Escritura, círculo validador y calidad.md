@@ -9,6 +9,9 @@ title: "Módulo 8. Escritura, círculo validador y calidad"
 - Llevar una bitácora de escritura y reescritura.
 - Preparar el círculo validador y evaluar el texto con los criterios de Van Manen.
 
+## Esquema del módulo
+<img src="/60-adjuntos/esquema-m8.svg" alt="Esquema del Módulo 8: escritura y reescritura, círculo validador y criterios de calidad" style="width:100%">
+
 ## Contenido
 ### Escribir es el método
 Para Van Manen la investigación es una forma de escritura: «no es hasta que lo hemos escrito cuando conocemos realmente lo que sabíamos» (2003, cap. 5, pp. 143–146). El resultado no es una lista de temas, sino una **descripción temática**: un texto que muestra la estructura de la experiencia.
